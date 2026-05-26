@@ -1,8 +1,23 @@
+---
+gsd_state_version: 1.0
+milestone: v1.0
+milestone_name: milestone
+current_phase: Phase 1 — Mobile App Shell
+status: planning
+last_updated: "2026-05-26T13:47:50.211Z"
+progress:
+  total_phases: 8
+  completed_phases: 0
+  total_plans: 0
+  completed_plans: 0
+  percent: 0
+---
+
 # Project State: Toddler Companion
 
 **Initialized:** 2026-05-26
 **Current phase:** Phase 1 — Mobile App Shell
-**Status:** Ready for discussion/planning
+**Status:** UI design contract ready; ready for discussion/planning
 
 ## Project Reference
 
@@ -35,4 +50,9 @@ See: .planning/PROJECT.md (updated 2026-05-26)
 
 ## Next Step
 
-Run `$gsd-discuss-phase 1` to clarify implementation approach for the mobile app shell, or `$gsd-ui-phase 1` first to create a UI design contract.
+Run `$gsd-discuss-phase 1` to clarify implementation approach for the mobile app shell, or `$gsd-plan-phase 1` to skip discussion and plan directly.
+
+## Last Session
+
+**Stopped at:** Phase 1 UI-SPEC approved
+**Resume file:** .planning/phases/01-mobile-app-shell/01-UI-SPEC.md
